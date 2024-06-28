@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @obbyobby
+- 👋 Hi, I’m Olly
 - 👀 I’m interested in cyber security, reading, and music
 - 🌱 I’m currently learning computer science(cyber security)
+- 👀 I’m especially interested in cyber security, mental health, and using technology to help improve wellbeing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
